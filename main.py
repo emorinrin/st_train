@@ -1,7 +1,7 @@
 import streamlit as st # フロントエンドを扱うstreamlitの機能をインポート
 import time # 時間を扱う機能をインポート
 
-st.title("streamlitの基礎") # タイトルが出力される
+st.title("streamlitの基礎!") # タイトルが出力される
 st.write("hello world") # hello worldが出力される
 
 # レイアウトとして２列を定義
