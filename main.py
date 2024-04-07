@@ -15,4 +15,4 @@ st.image("asset/勇気りんりん.jpg")
 
 # *** sidebar
 st.sidebar.title('これは home のサイドバーだよ')
-st.sidebar.image('asset\Give&Grow.jpg', use_column_width=True)
+st.sidebar.image('asset/Give&Grow.jpg', use_column_width=True)
