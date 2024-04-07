@@ -2,3 +2,4 @@ streamlit
 yfinance
 SpeechRecognition
 pyaudio
+PortAudio
