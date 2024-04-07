@@ -4,3 +4,4 @@ SpeechRecognition
 pyocr
 Pillow
 asari
+PyAudio
