@@ -1,3 +1,7 @@
 streamlit
 yfinance
 SpeechRecognition
+pyocr
+Pillow
+asari
+Tesseract-OCR
