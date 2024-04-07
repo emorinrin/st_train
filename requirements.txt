@@ -1,3 +1,6 @@
 streamlit
 yfinance
 SpeechRecognition
+bokeh
+streamlit-bokeh-events
+protobuf
